@@ -1,4 +1,4 @@
-package com.blaCe.microservices.activitiservice.jpa;
+package io.blace.microservices.activitiservice.jpa;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

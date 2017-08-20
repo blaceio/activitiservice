@@ -1,4 +1,4 @@
-package com.blaCe.microservices.activitiservice;
+package io.blace.microservices.activitiservice;
 
 import org.activiti.engine.IdentityService;
 import org.activiti.engine.identity.Group;

@@ -1,4 +1,4 @@
-package com.blaCe.microservices.activitiservice.http;
+package io.blace.microservices.activitiservice.http;
 
 import java.util.Collections;
 import java.util.Map;
@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.blaCe.microservices.activitiservice.jpa.Applicant;
-import com.blaCe.microservices.activitiservice.jpa.ApplicantRepository;
+import io.blace.microservices.activitiservice.jpa.Applicant;
+import io.blace.microservices.activitiservice.jpa.ApplicantRepository;
 
 
 @RestController

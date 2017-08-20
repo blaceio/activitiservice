@@ -1,4 +1,4 @@
-package com.blaCe.microservices.activitiservice.services;
+package io.blace.microservices.activitiservice.services;
 
 import org.springframework.stereotype.Component;
 
